@@ -4,9 +4,12 @@
 * It is open sourced under Apache Software Foundation.
 * Currently it is one of the top level projects under Apache.
 * Spark is written in Scala.
-* Spark offers client libraries for Scala, Java, Python and R.
+* Spark offers client libraries for Scala, Java, Python SQL, and R.
 * Spark is used for distributed data processing.
-* Spark does ETL, Analytics, Machine Learning, Stream processing and Graph processing.
+* Spark can do ETL, Analytics, Machine Learning, Stream processing and Graph processing.
+* Spark is multi stage and in-memory computing engine.
+* Spark is good for Iterative & Expressive computing.
+* Spark offers Interactive development using spark-shell, pyspark, sparksql, and sparkR.
 
 ## Spark Features
 * **Fast** - 100X faster than MapReduce in memory, 10X faster on Disk.
