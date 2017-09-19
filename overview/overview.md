@@ -10,6 +10,7 @@
 * Spark is multi stage and in-memory computing engine.
 * Spark is good for Iterative & Expressive computing.
 * Spark offers Interactive development using spark-shell, pyspark, sparksql, and sparkR.
+* Spark provides programming abstraction called an **RDD** (Resilient Distributed Dataset)
 
 ## Spark Features
 * **Fast** - 100X faster than MapReduce in memory, 10X faster on Disk.
