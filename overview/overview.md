@@ -1,6 +1,6 @@
 ## Apache Spark
 * Apache Spark is a fast and general purpose engine for large scale data processing.
-* It was created by Matei Zaharia at UC Berkeley AMPLab.
+* It is created by Matei Zaharia at UC Berkeley AMPLab.
 * It is open sourced under Apache Software Foundation.
 * Currently it is one of the top level projects under Apache.
 * Spark is written in Scala.
@@ -11,3 +11,4 @@
 * Ease of Use - Good collection of high level operators and client APIs in Java/Scala/Python/R.
 * General Purpose - It works for various work loads like Batch, Streaming, SQL and complex Graph analysis.
 * Runs on multiple platforms - Spark runs on Local, Spark, Mesos and Hadoop YARN.
+* Integrations - Spark is well integrated with rest of the Bigdata World like HDFS, HBase, S3, Cassandra.
