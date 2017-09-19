@@ -12,3 +12,4 @@
 * General Purpose - It works for various work loads like Batch, Streaming, SQL and complex Graph analysis.
 * Runs on multiple platforms - Spark runs on Local, Spark, Mesos and Hadoop YARN.
 * Integrations - Spark is well integrated with rest of the Bigdata World like HDFS, HBase, S3, Cassandra.
+* Vibrant Community - Spark has great community to support and strengthen the Spark project.
