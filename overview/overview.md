@@ -3,6 +3,8 @@
 * It was created by Matei Zaharia at UC Berkeley AMPLab.
 * It is open sourced under Apache Software Foundation.
 * Currently it is one of the top level projects under Apache.
+* Spark is written in Scala.
+* Spark offers client libraries for Scala, Java, Python and R.
 
 ## Spark Features
 * Fast - 100X faster than MapReduce in memory, 10X faster on Disk.
